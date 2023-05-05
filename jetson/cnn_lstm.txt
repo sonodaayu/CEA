@@ -1,0 +1,2 @@
+Total time for training:  51279.73784852028 
+ Time per epoch 170.9324594950676
